@@ -19,8 +19,8 @@ const projectsData = [
     githubLink: "https://github.com/Oloan03/bitcoin-sentiment-svm",
     demoLink: null,
     image: "/images/bitcoin-sentiment.png", // nanti bisa ganti dengan path gambar
-    date: "2020",
-    role: "Peneliti & Developer",
+    date: "2026",
+    role: "Peneliti",
     outcomes: [
       "Mencapai akurasi 85% dengan kernel RBF",
       "Menyediakan visualisasi perbandingan kernel",
