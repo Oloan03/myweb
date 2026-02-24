@@ -31,7 +31,7 @@ export default function Layout() {
         <div className="container mx-auto px-4 py-3">
           <nav className="flex justify-between items-center">
             <div className="text-2xl font-bold text-primary-600 dark:text-primary-400">
-              <NavLink to="/">Oloan</NavLink>
+              <NavLink to="/"><img src="/profileX.png" alt="profile" className="w-10 h-10 rounded-full object-cover" /></NavLink>
             </div>
 
             <div className="flex items-center space-x-4">
